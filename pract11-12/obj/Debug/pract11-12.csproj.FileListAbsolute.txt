@@ -1,0 +1,7 @@
+C:\Users\DANIK\source\repos\pract11-12\bin\Debug\pract11-12.exe.config
+C:\Users\DANIK\source\repos\pract11-12\bin\Debug\pract11-12.exe
+C:\Users\DANIK\source\repos\pract11-12\bin\Debug\pract11-12.pdb
+C:\Users\DANIK\source\repos\pract11-12\obj\Debug\pract11-12.csproj.AssemblyReference.cache
+C:\Users\DANIK\source\repos\pract11-12\obj\Debug\pract11-12.csproj.CoreCompileInputs.cache
+C:\Users\DANIK\source\repos\pract11-12\obj\Debug\pract11-12.exe
+C:\Users\DANIK\source\repos\pract11-12\obj\Debug\pract11-12.pdb
